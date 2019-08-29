@@ -43,12 +43,7 @@ pip install subliminal
 
 ## Customization
 * Optionally change the subtitle languages / [ISO codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
-  Be sure to put your preferred language at the top of the list.  
-  If necessary, you can manually trigger downloading your first choice language by pressing `b`,  
-  or your second choice language by pressing `n`.
-* Optionally specify the login credentials for your preferred subtitle provider(s), if you have one.
-* If you do not care for the automatic downloading functionality, and simply wish to use the hotkeys,
-  just change the `auto` bool to `false`.
+
 
 This script is under the [MIT License](./LICENSE-MIT),
 so you are free to modify and adapt this script to your needs:  
