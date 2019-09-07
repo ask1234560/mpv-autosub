@@ -58,5 +58,7 @@ function control_download()
     download_subs()
 end
 
-mp.register_event('file-loaded', control_download)
+-- For enabling auto download sub on startup uncomment below line
+-- mp.register_event('file-loaded', control_download)
+
 mp.add_key_binding('b', 'download_subs', download_subs)
